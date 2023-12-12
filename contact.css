@@ -1,0 +1,90 @@
+body {
+    font-family: sans-serif;
+    color: white;
+    font-family: 'Brady Bunch Remastered';
+    font-weight: bold;
+}
+
+.header-nav {
+    background: #fe5000;
+}
+
+.navbar-toggler {
+    font-size: 16px;
+    color: white;
+    border-style: none;
+    font-weight: bolder;
+}
+
+.dropdown-menu {
+    background: #fe5000;
+}
+
+.banner {
+    position: relative;
+}
+
+.follow,
+.connect-with-us {
+    color: #7c2529;
+}
+
+.num {
+    color: #7c2529;
+    font-size: 20px;
+    position: relative;
+}
+
+.para {
+    color: #5F249F;
+}
+
+.head {
+    color: #5F249F;
+}
+
+.form-border {
+    border: 0;
+    border-bottom: 5px solid #7c2529;
+}
+
+.table {
+    border: none;
+    color: #7c2529;
+}
+
+.table.table button,
+.table select {
+    font-weight: bold;
+    color: #7c2529;
+    background: white;
+}
+
+.table select:hover {
+    color: #7c2529;
+}
+
+.button-submit {
+    background: #5f249f;
+}
+
+.button-submit:hover {
+    background: #5f249f;
+}
+
+.table {
+    border: none;
+}
+
+.media {
+    justify-content: center;
+}
+
+footer li {
+    font-family: sans-serif;
+    font-weight: normal;
+}
+
+.end {
+    background-color: #db291d;
+}

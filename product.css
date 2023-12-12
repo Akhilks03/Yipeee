@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+    color: white;
+    font-family: 'Brady Bunch Remastered';
+    font-weight: bold;
+}
+
+.header-nav {
+    background: #fe5000;
+}
+
+.navbar-toggler {
+    font-size: 16px;
+    color: white;
+    border-style: none;
+    font-weight: bolder;
+}
+
+.dropdown-menu {
+    background: #fe5000;
+}
+
+footer li {
+    font-family: sans-serif;
+    font-weight: normal;
+}
+
+.description {
+    background-color: #db291d;
+}
+
+.media {
+    justify-content: center;
+}
+
+.end {
+    background-color: #db291d;
+}
